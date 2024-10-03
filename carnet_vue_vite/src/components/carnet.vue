@@ -19,7 +19,7 @@
         <section>
           <div class="row">
             <div class="col-12">
-              <article class="text-start"> <!-- Ensure text is aligned to the left -->
+              <article class="text-start"> 
                 <header>APELLIDOS</header>
                 <span>{{ apellidos }}</span>
               </article>
@@ -28,7 +28,7 @@
           
           <div class="row">
             <div class="col-12">
-              <article class="text-start"> <!-- Ensure text is aligned to the left -->
+              <article class="text-start"> 
                 <header>NOMBRES</header>
                 <span>{{ nombres }}</span>
               </article>
@@ -37,13 +37,13 @@
 
           <div class="row">
             <div class="col-6">
-              <article class="text-start"> <!-- Ensure text is aligned to the left -->
+              <article class="text-start"> 
                 <header>NACIONALIDAD</header>
                 <span>{{ nacionalidad }}</span>
               </article>
             </div>
             <div class="col-6">
-              <article class="text-start"> <!-- Ensure text is aligned to the left -->
+              <article class="text-start"> 
                 <header>SEXO</header>
                 <span>{{ sexo }}</span>
               </article>
@@ -52,13 +52,13 @@
 
           <div class="row">
             <div class="col-6">
-              <article class="text-start"> <!-- Ensure text is aligned to the left -->
+              <article class="text-start"> 
                 <header>FECHA DE NACIMIENTO</header>
                 <span>{{ fechaNacimiento }}</span>
               </article>
             </div>
             <div class="col-6">
-              <article class="text-start"> <!-- Ensure text is aligned to the left -->
+              <article class="text-start"> 
                 <header>NÚMERO DOCUMENTO</header>
                 <span>{{ numeroDocumento }}</span>
               </article>
@@ -67,13 +67,13 @@
 
           <div class="row">
             <div class="col-6">
-              <article class="text-start"> <!-- Ensure text is aligned to the left -->
+              <article class="text-start"> 
                 <header>FECHA DE EMISIÓN</header>
                 <span>{{ fechaEmision }}</span>
               </article>
             </div>
             <div class="col-6">
-              <article class="text-start"> <!-- Ensure text is aligned to the left -->
+              <article class="text-start"> 
                 <header>FECHA DE VENCIMIENTO</header>
                 <span>{{ fechaVencimiento }}</span>
               </article>
@@ -82,7 +82,7 @@
 
           <div class="row">
             <div class="col-12">
-              <article class="text-start"> <!-- Ensure text is aligned to the left -->
+              <article class="text-start"> 
                 <header>FIRMA DEL TITULAR</header>
                 <span>{{ firma }}</span>
               </article>
